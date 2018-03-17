@@ -1,13 +1,24 @@
 {
-  "name": "promise-chaining",
+  "name": "promise-chaining-github",
   "version": "1.0.0",
-  "description": "An example of Promise chaining",
+  "description": "A (rather long winded but oh well) guide on Promise chaining",
   "main": "promiseChaining.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cutejs/promise-chaining.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
   "author": "Peter Fesz-Nguyen",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cutejs/promise-chaining/issues"
+  },
+  "homepage": "https://github.com/cutejs/promise-chaining#readme",
   "dependencies": {
     "request": "^2.85.0",
     "request-promise": "^4.2.2"

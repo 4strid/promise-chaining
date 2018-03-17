@@ -1,12 +1,6 @@
 /***************
 Promise Chaining
 ****************/
-//var log = console.log;
-//console.log = function() {
-    //log.apply(console, arguments);
-    //// Print the stack trace
-    //console.trace();
-//};
 
 /*
  * In this example, we're going to chain a bunch of AJAX requests in order to try to get 
